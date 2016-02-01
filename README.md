@@ -1,4 +1,4 @@
-# Global-Game-Jam-2016
+# Global Game Jam 2016
 This is the project my team and I made during the Global Game Jam 2016 edition!
 
 Our game is called *Notice me N'Masha !*
